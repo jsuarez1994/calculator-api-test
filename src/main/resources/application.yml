@@ -1,0 +1,6 @@
+endpoints:
+  requestmain: /api
+  calculation: /calculation
+exceptions:
+  general: 'Error to calculate'
+  operatornotfound: 'Operator not exists'
